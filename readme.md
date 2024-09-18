@@ -16,8 +16,8 @@
 
 Soluções como try-catch, Then e tradução de erros
 
-### Bibliotecas externas: commander e chalk
+- ### Bibliotecas externas: commander e chalk
 
-### File System para interagir com o sistema de arquivos
+- ### File System para interagir com o sistema de arquivos
 
-### Utilização da linha de comando para parametrização das funcionalidades
+- ### Utilização da linha de comando para parametrização das funcionalidades
